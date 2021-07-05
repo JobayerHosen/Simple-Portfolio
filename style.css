@@ -70,10 +70,6 @@ section .container {
     background-position: left;
     background-position-y: 50%;
 }
-/* .experience .container {
-    height: 100%;
-    margin-top: 40px;
-} */
 .flexhalf {
     display: flex;
     flex-direction: row;
@@ -109,12 +105,9 @@ section .container {
     font-weight: 600;
 
 }
-
 .flexhalf .imgBx img{
     width: 100%;
 }
-
-
 
 
 
